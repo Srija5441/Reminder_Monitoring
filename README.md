@@ -16,3 +16,4 @@ Create a database named 'ustintern' and a table named 'reminder' with columns 'r
 ## Tests
 
 Run menu.java file.
+CreateR.java helps in creating,updating a reminder's information.
